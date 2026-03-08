@@ -6,6 +6,13 @@ A Passionate Gamer 🎮 || So-Called Engineer 🧑🏻‍🔬 || Real Audiophile
 Email Me 👉 📩📫 **mondalsreejon7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
+<table>
+<tr>
+<td width="320">
+<img src="denji.gif" width="420">
+</td>
+
+<td>
 
 - 🔭 **I’m currently working on:** Plant-Health-Check 🌱  
 - 🌱 **I’m currently learning:** Everything 🧩  
@@ -14,7 +21,9 @@ Email Me 👉 📩📫 **mondalsreejon7@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** Sreejon  
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 🧑🏻‍💻  
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yoursreejon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notyoursreejon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notyoursreejon) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/notyoursreejon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Your-Sreejon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SREEJON_X7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-sreejon) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yoursreejon) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/notyoursreejon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notyoursreejon) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/notyoursreejon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsreejon7@gmail.com) 
