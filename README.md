@@ -26,62 +26,21 @@ Email Me 👉 📩📫 **mondalsreejon7@gmail.com** For Collaboration/Project or
 </table>
 
 ## 🌐 Socials:
+## 🌐 Socials:
 <p align="center">
-
-<a href="https://facebook.com/yoursreejon">
-<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://instagram.com/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://linkedin.com/in/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://pinterest.com/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="Pinterest" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://quora.com/profile/Your-Sreejon">
-<img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Quora" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://reddit.com/user/SREEJON_X7">
-<img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://stackoverflow.com/users/your-sreejon">
-<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://tiktok.com/@yoursreejon">
-<img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://twitch.tv/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://x.com/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="https://codepen.io/notyoursreejon">
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="Codepen" width="48" height="48" style="margin:4px;">
-</a>
-
-<a href="mailto:mondalsreejon7@gmail.com">
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="48" height="48" style="margin:4px;">
-</a>
-
+<a href="https://facebook.com/yoursreejon"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://pinterest.com/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://quora.com/profile/Your-Sreejon"><img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://reddit.com/user/SREEJON_X7"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/your-sreejon"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://tiktok.com/@yoursreejon"><img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://x.com/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/notyoursreejon"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="mailto:mondalsreejon7@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48" height="48"></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
 
 
 # 💻 Tech Stack:
