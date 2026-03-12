@@ -25,7 +25,7 @@ Email Me 👉 📩📫 **mondalsreejon7@gmail.com** For Collaboration/Project or
 </tr>
 </table>
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 <p align="center">
 <a href="https://facebook.com/yoursreejon"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="48" height="48"></a>&nbsp;&nbsp;
