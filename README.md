@@ -94,7 +94,5 @@ Email Me 👉 📩📫 **mondalsreejon7@gmail.com** For Collaboration/Project or
 
 
   ## 💰 You can help me by Donating
+  [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=mondalsreejon7@okicici&pn=Sreejon)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sreejonx2) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
